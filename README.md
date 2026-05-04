@@ -1,8 +1,5 @@
 <h1 align="center">React Native TODO</h1>
 
-Welcome to the **React Native To‑Do App Tutorial**!  
-In this one‑stop tutorial you’ll build a fully functional **real‑time to‑do application** that runs on **iOS, Android, and the web**—all with **React Native + Expo**, and **Convex**.
-
 ---
 
 ## 🧑‍🍳 App Features Overview
